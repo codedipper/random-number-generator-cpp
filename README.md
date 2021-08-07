@@ -6,4 +6,5 @@ It's my first C++ program, and it's pretty cool, I guess.
 Install the Microsoft Visual Studio Build Tools 2017 and compile the C++ file using:\
 `cl numberGen.cpp /EHs`
 ## Pre-Built
-Go to the releases page, there will be a 32-bit version and a 64-bit version.
+You can find both a 64-bit and 32-bit version in the `./bin/` folder.\
+You can also find them on the releases page.
