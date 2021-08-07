@@ -8,3 +8,4 @@ Install the Microsoft Visual Studio Build Tools 2017 and compile the C++ file us
 ## Pre-Built
 You can find both a 64-bit and 32-bit version in the `./bin/` folder.\
 You can also find them on the releases page.
+The executables work on Windows Vista SP2 and above.
