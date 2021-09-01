@@ -19,8 +19,6 @@ int main(int argc, char *argv[])
 		
 		srand(time(NULL));
 		printf("\n\nThe number is: %i", rand() % (max - min + 1) + min);
-		
-		system("pause >nul");
 		return 0;
 	}
 	
